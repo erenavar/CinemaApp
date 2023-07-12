@@ -1,0 +1,16 @@
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/bin/Debug/net5.0/CinemaApp
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/bin/Debug/net5.0/CinemaApp.deps.json
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/bin/Debug/net5.0/CinemaApp.runtimeconfig.json
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/bin/Debug/net5.0/CinemaApp.runtimeconfig.dev.json
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/bin/Debug/net5.0/CinemaApp.dll
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/bin/Debug/net5.0/CinemaApp.pdb
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/obj/Debug/net5.0/CinemaApp.csproj.AssemblyReference.cache
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/obj/Debug/net5.0/CinemaApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/obj/Debug/net5.0/CinemaApp.AssemblyInfoInputs.cache
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/obj/Debug/net5.0/CinemaApp.AssemblyInfo.cs
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/obj/Debug/net5.0/CinemaApp.csproj.CoreCompileInputs.cache
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/obj/Debug/net5.0/CinemaApp.dll
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/obj/Debug/net5.0/refint/CinemaApp.dll
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/obj/Debug/net5.0/CinemaApp.pdb
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/obj/Debug/net5.0/CinemaApp.genruntimeconfig.cache
+/Users/go.dre/Desktop/CinemaApp/CinemaApp/obj/Debug/net5.0/ref/CinemaApp.dll

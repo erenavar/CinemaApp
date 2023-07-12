@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/go.dre/.dotnet/store/|arch|/|tfm|",
+      "/Users/go.dre/.nuget/packages"
+    ]
+  }
+}
